@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Local Device Manager</string>
+    <string name="notification_channel_name">Local Device Manager Server</string>
+    <string name="notification_title">Local Device Manager فعال است</string>
+    <string name="notification_stop">توقف سرور</string>
+</resources>
